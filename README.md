@@ -17,7 +17,8 @@ They have placed a clap pot on top because it makes the water to cool due evapor
 Then it gushes out to the room to cool down the room temperature. 
 
 Since we have the technology and electricity, we don’t have to spend building tall towers and People does not want build because heavy houses aren’t cheap.
-![img](https://github.com/avi7v/Bernoullis-by-Mr.-ZeWei/blob/main/3.jpg)
+
+![img](https://github.com/avi7v/Bernoullis-by-Mr.-ZeWei/blob/main/3.png)
 Working on Bernoulli’s project was something to refresh my mind. We brainstormed a few ideas like having a wind tunnel experiment, a wind blower experiment and two can with blower experiments. I have tried to do a simple one at home using the two soda cans and a hairdryer. First, I took two identical can and punctured holes at the bottom of each can using a pin and attached a string and tied a knot. I placed them 6 inches apart. When I turn on the hairdryer and point it in the middle, it moves together.
 ![img](https://github.com/avi7v/Bernoullis-by-Mr.-ZeWei/blob/main/4.jpg)
 ![img](https://github.com/avi7v/Bernoullis-by-Mr.-ZeWei/blob/main/5.jpg)
