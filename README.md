@@ -17,9 +17,11 @@ They have placed a clap pot on top because it makes the water to cool due evapor
 Then it gushes out to the room to cool down the room temperature. 
 
 Since we have the technology and electricity, we don’t have to spend building tall towers and People does not want build because heavy houses aren’t cheap.
-
+![img](https://github.com/avi7v/Bernoullis-by-Mr.-ZeWei/blob/main/3.jpg)
 Working on Bernoulli’s project was something to refresh my mind. We brainstormed a few ideas like having a wind tunnel experiment, a wind blower experiment and two can with blower experiments. I have tried to do a simple one at home using the two soda cans and a hairdryer. First, I took two identical can and punctured holes at the bottom of each can using a pin and attached a string and tied a knot. I placed them 6 inches apart. When I turn on the hairdryer and point it in the middle, it moves together.
-
+![img](https://github.com/avi7v/Bernoullis-by-Mr.-ZeWei/blob/main/4.jpg)
+![img](https://github.com/avi7v/Bernoullis-by-Mr.-ZeWei/blob/main/5.jpg)
+![img](https://github.com/avi7v/Bernoullis-by-Mr.-ZeWei/blob/main/6.jpg)
 According to Bernoulli's theorem, the principle of physics says that pressure drops when there is high velocity of air. Thus, when I pointed the hair drier at the middle, that region has low pressure and static pressure at the side pushes it together. Air has velocity pressure when it moves. According to Bernoulli's principle, when a fluid is moving, its pressure is lower than when it is stationary. The pressure on the edges of the air lessens when it is no longer stationary.
 
 We can do another experiment by placing a ping-pong ball on top of a balanced hair drier with the air vent pointing straight up. Set the hair dryer to a low or no heat setting. If the dryer is switched on, the ball will rise into the air and levitate there. The air column is not visible, but it exists. This experiment demonstrates the unseen pressure that air exerts. You can try to push the ball gently and it will oscillate back and front due to the pressure. 
